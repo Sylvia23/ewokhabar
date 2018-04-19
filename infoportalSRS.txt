@@ -1,0 +1,68 @@
+	
+
+A Software Requirements Document: EWOK Info Portal
+
+1 Introduction	
+
+EWOK Info Portal-
+It is an effort to help women of Kamand Valley to get to know about vaious schemes and promote their business.
+An information portal is been made in which the women of Kamand can check for latest mews day-to-day.  
+
+1.1 Need and Purpose
+
+Increase literacy of villagers.
+Information about various services and schemes provided by Govt. of India.
+Provide employment to villagers.
+This will help them to promote their business and avail various schemes.
+
+1.2 Intended Audience	
+
+a) All those developers who want to continue work on EWOK.
+b) The users who are going to register on EWOK SSP.
+c) The rural population of India.
+
+2 Description	
+The portal will help women of Kamand Valley to get to know about vaious schemes and promote their business.
+An information portal is been made in which the women of Kamand can check for latest mews day-to-day.  
+Women can see other jobs, services, schemes provided by the Govt or other corporates.
+
+2.1 Features and Functions
+
+**Features
+
+Portal will contain usecase 
+a) Home Page
+b) View Others Profile
+c) Message sending option to the admin of the info portal.
+
+The portal will be in both Hindi and English language so that the women can understand the procedure easily on their own.
+
+**Functions
+
+a) HomePage : It will contain all the information. Basically, info portal would be a single page website containing all information about present and past schemes, jobs, services, profiles etc.
+
+b) View Others Profile : This will contain all relevant information about the businesswomen.
+Sensitive infomation won't be shown to the customer.
+
+c) Message : The visitor can send message request to admin to post some news on the portal.
+
+2.2 Users
+
+a) Regular Users/Visitors
+b) Admin
+
+2.3 Operating Environment
+
+2.3.1 Hardware
+
+A simple PC or smartphone would do.
+
+2.3.2 Software
+
+HTML and CSS for frontend.
+NodeJS and MondgoDB for backend.
+
+4 Mini-Project Plan
+
+*********************************************************************************************************
+
